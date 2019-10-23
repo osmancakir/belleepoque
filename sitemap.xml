@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://osmancakir.io/belleepoque/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/belleepoque/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/belleepoque/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/belleepoque/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/belleepoque/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/belleepoque/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/belleepoque/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/belleepoque/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://osmancakir.io/belleepoque/tags/</loc>
+  </url>
+  
+</urlset>

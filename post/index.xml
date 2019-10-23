@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Belle Epoque in Frankreich</title>
+    <link>https://osmancakir.io/belleepoque/post/</link>
+      <atom:link href="https://osmancakir.io/belleepoque/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://osmancakir.io/belleepoque/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://osmancakir.io/belleepoque/post/</link>
+    </image>
+    
+  </channel>
+</rss>
