@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maurice Denis | Belle Epoque in Frankreich</title>
+    <link>https://osmancakir.io/belleepoque/tags/maurice-denis/</link>
+      <atom:link href="https://osmancakir.io/belleepoque/tags/maurice-denis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maurice Denis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://osmancakir.io/belleepoque/img/icon-192.png</url>
+      <title>Maurice Denis</title>
+      <link>https://osmancakir.io/belleepoque/tags/maurice-denis/</link>
+    </image>
+    
+    <item>
+      <title>Katholische Avantgarde-Kunst - Maurice Denis</title>
+      <link>https://osmancakir.io/belleepoque/courses/belleepoque/katholischeavantgarde/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0100</pubDate>
+      <guid>https://osmancakir.io/belleepoque/courses/belleepoque/katholischeavantgarde/</guid>
+      <description>&lt;p&gt;[text entries will be uploaded here]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
